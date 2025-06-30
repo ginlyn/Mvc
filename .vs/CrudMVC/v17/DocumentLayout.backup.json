@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Applicaion\\CrudMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\controllers\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\controllers\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\migrations\\20250621081838_eefcodedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\migrations\\20250621081838_eefcodedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|d:\\applicaion\\crudmvc\\crudmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4997A1DC-B418-4FF8-8CA3-8FAFFC35DDCD}|CrudMVC\\CrudMVC.csproj|solutionrelative:crudmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\GetData.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\GetData.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\GetData.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\GetData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:13:04.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T10:41:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T09:25:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T09:17:06.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CrudMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADAAAAAA+P///78iwDkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:32:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:11:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Program.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Program.cs",
+              "RelativeToolTip": "CrudMVC\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:15:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudMVC\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "CrudMVC\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T14:51:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "CrudMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:59:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EFCoreDBContext.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\EFCoreDBContext.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Models\\EFCoreDBContext.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\EFCoreDBContext.cs",
+              "RelativeToolTip": "CrudMVC\\Models\\EFCoreDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:06:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudMVC\\appsettings.json",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\appsettings.json",
+              "RelativeToolTip": "CrudMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T08:01:32.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestTimingMiddleware.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Controllers\\RequestTimingMiddleware.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Controllers\\RequestTimingMiddleware.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Controllers\\RequestTimingMiddleware.cs",
+              "RelativeToolTip": "CrudMVC\\Controllers\\RequestTimingMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:34:19.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CrudMVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CrudMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T16:34:49.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250621081838_EEfcodeDb.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Migrations\\20250621081838_EEfcodeDb.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Migrations\\20250621081838_EEfcodeDb.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Migrations\\20250621081838_EEfcodeDb.cs",
+              "RelativeToolTip": "CrudMVC\\Migrations\\20250621081838_EEfcodeDb.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:18:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CrudMVC\\Models\\Department.cs",
+              "ToolTip": "D:\\Applicaion\\CrudMVC\\CrudMVC\\Models\\Department.cs",
+              "RelativeToolTip": "CrudMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:57:19.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+2025-06-28 11:36:46.101 +05:30 [INF] App Starting...
+2025-06-28 11:36:52.576 +05:30 [INF] Employee controller accessed
+2025-06-28 11:38:49.580 +05:30 [INF] Employee controller accessed
+2025-06-28 11:43:51.344 +05:30 [INF] App Starting...
+2025-06-28 11:48:12.144 +05:30 [INF] App Starting...
+2025-06-28 11:51:57.250 +05:30 [INF] App Starting...
+2025-06-28 11:52:03.456 +05:30 [INF] Employee controller accessed
+2025-06-28 11:52:15.247 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Employees_Index.ExecuteAsync() in D:\Applicaion\CrudMVC\CrudMVC\Views\Employees\Index.cshtml:line 31
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-28 11:54:22.982 +05:30 [INF] App Starting...
+2025-06-28 11:54:25.925 +05:30 [INF] Employee controller accessed
+2025-06-28 11:54:33.293 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Employees_Index.ExecuteAsync() in D:\Applicaion\CrudMVC\CrudMVC\Views\Employees\Index.cshtml:line 31
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-28 11:57:52.018 +05:30 [INF] App Starting...
+2025-06-28 11:57:54.974 +05:30 [INF] Employee controller accessed
+2025-06-28 11:57:59.708 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Employees_Index.ExecuteAsync() in D:\Applicaion\CrudMVC\CrudMVC\Views\Employees\Index.cshtml:line 31
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-28 11:59:29.334 +05:30 [INF] App Starting...
+2025-06-28 11:59:32.507 +05:30 [INF] Employee controller accessed
+2025-06-28 11:59:37.063 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Employees_Index.ExecuteAsync() in D:\Applicaion\CrudMVC\CrudMVC\Views\Employees\Index.cshtml:line 31
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-28 12:09:07.950 +05:30 [INF] App Starting...
+2025-06-28 12:09:12.594 +05:30 [INF] Employee controller accessed
+2025-06-28 12:09:17.682 +05:30 [INF] Request [GET] / took 5946 ms
+2025-06-28 12:09:22.462 +05:30 [INF] Request [GET] /Employees/Create took 493 ms
+2025-06-28 12:09:32.166 +05:30 [INF] Request [POST] /Employees/Create took 610 ms
+2025-06-28 12:09:32.183 +05:30 [INF] Employee controller accessed
+2025-06-28 12:09:32.228 +05:30 [INF] Request [GET] / took 46 ms
+2025-06-28 16:46:13.040 +05:30 [INF] App Starting...
+2025-06-28 16:46:18.208 +05:30 [INF] Employee controller accessed
+2025-06-28 16:46:23.792 +05:30 [INF] Request [GET] / took 6790 ms
+2025-06-28 16:47:26.347 +05:30 [INF] Employee controller accessed
+2025-06-28 16:47:26.485 +05:30 [INF] Request [GET] / took 141 ms
+2025-06-28 16:50:35.737 +05:30 [INF] Request [GET] /Employees/Create took 529 ms
+2025-06-28 16:50:40.630 +05:30 [INF] Request [GET] /Home took 29 ms
+2025-06-28 16:50:43.658 +05:30 [INF] Request [GET] /Home/Privacy took 16 ms
+2025-06-28 16:50:45.426 +05:30 [INF] Request [GET] /Home took 1 ms
+2025-06-28 16:50:50.682 +05:30 [INF] Request [GET] /Employees/Create took 19 ms
+2025-06-28 16:50:57.306 +05:30 [INF] Request [GET] /Employees/Create took 16 ms
+2025-06-28 16:51:11.974 +05:30 [INF] Request [GET] /Employees/Create took 14 ms
+2025-06-28 16:58:02.505 +05:30 [INF] App Starting...
+2025-06-28 16:58:06.724 +05:30 [INF] Employee controller accessed
+2025-06-28 16:58:12.077 +05:30 [INF] Request [GET] / took 6504 ms
+2025-06-28 16:58:18.267 +05:30 [INF] Request [GET] /EmployeesController/getdata took 5 ms
+2025-06-28 17:02:33.729 +05:30 [INF] App Starting...
+2025-06-28 17:02:38.358 +05:30 [INF] Employee controller accessed
+2025-06-28 17:02:43.759 +05:30 [INF] Request [GET] / took 6557 ms
+2025-06-28 17:02:49.547 +05:30 [INF] Request [GET] /.well-known/appspecific/com.chrome.devtools.json took 34 ms
+2025-06-28 17:02:52.579 +05:30 [INF] Request [GET] /EmployeesController/getdata took 2 ms
+2025-06-28 17:04:44.100 +05:30 [INF] App Starting...
+2025-06-28 17:04:47.248 +05:30 [INF] Employee controller accessed
+2025-06-28 17:04:52.490 +05:30 [INF] Request [GET] / took 5893 ms
+2025-06-28 17:04:57.170 +05:30 [INF] Request [GET] /EmployeesController/GetData took 3 ms
+2025-06-28 17:05:03.081 +05:30 [INF] Request [GET] /.well-known/appspecific/com.chrome.devtools.json took 4 ms
+2025-06-28 17:05:07.207 +05:30 [INF] Request [GET] /EmployeesController/GetData took 0 ms
+2025-06-28 17:08:51.471 +05:30 [INF] App Starting...
+2025-06-28 17:08:55.573 +05:30 [INF] Employee controller accessed
+2025-06-28 17:09:00.952 +05:30 [INF] Request [GET] / took 6105 ms
+2025-06-28 17:09:06.370 +05:30 [INF] Request [GET] /EmployeesController/GetData took 3 ms
+2025-06-28 17:09:13.936 +05:30 [INF] Request [GET] /.well-known/appspecific/com.chrome.devtools.json took 1 ms
+2025-06-28 17:09:17.634 +05:30 [INF] Request [GET] /EmployeesController/GetData took 0 ms
+2025-06-28 17:09:55.792 +05:30 [INF] Request [GET] /EmployeesController/GetData took 0 ms
+2025-06-28 17:10:27.843 +05:30 [INF] Request [GET] /EmployeesController/GetData took 0 ms
+2025-06-28 17:10:33.152 +05:30 [INF] Request [GET] /.well-known/appspecific/com.chrome.devtools.json took 0 ms
+2025-06-28 17:10:42.015 +05:30 [INF] Request [GET] /EmployeesController/GetData took 0 ms
+2025-06-28 17:11:21.224 +05:30 [INF] App Starting...
+2025-06-28 17:11:24.759 +05:30 [INF] Employee controller accessed
+2025-06-28 17:11:29.860 +05:30 [INF] Request [GET] / took 6000 ms
+2025-06-28 17:11:41.882 +05:30 [INF] Request [GET] /Employees/GetData took 10024 ms
+2025-06-28 17:12:57.796 +05:30 [INF] App Starting...
+2025-06-28 17:13:00.840 +05:30 [INF] Employee controller accessed
+2025-06-28 17:13:05.514 +05:30 [INF] Request [GET] / took 5107 ms
+2025-06-28 17:13:15.610 +05:30 [INF] Request [GET] /Employees/GetData took 7939 ms
+2025-06-28 17:13:39.860 +05:30 [INF] App Starting...
+2025-06-28 17:13:43.129 +05:30 [INF] Employee controller accessed
+2025-06-28 17:13:47.948 +05:30 [INF] Request [GET] / took 5611 ms
+2025-06-28 17:13:50.612 +05:30 [INF] Request [GET] /Employees/GetData took 25 ms
+2025-06-28 17:13:52.539 +05:30 [INF] Request [GET] /Employees/GetData took 10 ms

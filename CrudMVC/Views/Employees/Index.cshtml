@@ -1,0 +1,95 @@
+﻿@model IEnumerable<CrudMVC.Models.Employee>
+
+
+@if (ViewBag.Message != null)
+{
+    <h2>@ViewBag.Message</h2>
+}
+else
+{
+    <h2>No message available</h2>
+}
+@{
+    ViewData["Title"] = "Index";
+
+} 
+
+
+
+
+
+
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                    @if (item.Department != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Department.Name)
+                    }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
+                   
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+<button id="loadDataBtn">Load Data</button>
+
+<div id="result"></div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $("#loadDataBtn").click(function () {
+        $.ajax({
+            url: "/Employees/GetData",   // Your MVC controller endpoint
+            method: "GET",
+            success: function (data) {
+                $("#result").html(data);
+            },
+            error: function () {
+                alert("Something went wrong!");
+            }
+        });
+    });
+</script>
