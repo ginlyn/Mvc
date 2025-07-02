@@ -21,6 +21,8 @@ namespace CrudMVC.Controllers
         }
 
         //logger accessed
+
+        int a = 10;
        
         public IActionResult GetData()
         {
